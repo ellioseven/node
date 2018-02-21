@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:9
 MAINTAINER elliot.mitchum@ellioseven.com.au
 
 ENV APP_DIR /srv
